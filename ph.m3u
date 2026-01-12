@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:-1,Mindanow Network TV
+https://streams.comclark.com/overlay/mindanow/playlist.m3u8
+#EXTINF:-1,BBC News Asia Pacific (720p)
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+#EXTINF:-1,CLTV 36 (720p) [Not 24/7]
+https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8
+#EXTINF:-1,Bilyonario News Channel (720p) [Geo-blocked]
+https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8
+#EXTINF:-1,EWTN Asia-Pacific (720p) [Not 24/7]
+https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
+#EXTINF:-1,Zarok TV Sorani (720p)
+https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
+#EXTINF:-1,Travel Channel
+https://dplus.gammacdn.workers.dev/videos/110.m3u8
+#EXTINF:-1,Arirang
+https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1,Bloomberg Asia
+https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1,BBC World News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1,CGTN News
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1,CGTN Documentaries
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+#EXTINF:-1,Outdoor Channel
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+#EXTINF:-1,Animal Planet
+https://dplus.gammacdn.workers.dev/videos/99.m3u8
+#EXTINF:-1,Thrillers
+https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1,Bein Sports Xtra
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+#EXTINF:-1,MovieSphere
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1,TFC GUAM
+https://tfcguam-abscbn-ono.amagi.tv/index.m3u8
+#EXTINF:-1,3ABN Kids
+https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
+#EXTINF:-1,Blues TV
+https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
+#EXTINF:-1,Japanim TV (1080p)
+https://foxkidstv.be:3369/stream/play.m3u8
+#EXTINF:-1,Kuriakos Kids (1080p)
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+#EXTINF:-1,Magic Kids (486p)
+https://magicstream.ddns.net/magicstream/stream.m3u8
+#EXTINF:-1,Persiana Junior
+https://junhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1,XilamTV (1080p) (English Subtitle)
+https://xilam-animation-1-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,Zarok TV Sorani (720p)
+https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
+#EXTINF:-1,Disney XD
+https://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
+#EXTINF:-1,Disney Jr
+https://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1,Disney Channel
+https://fl1.moveonjoy.com/DISNEY/index.m3u8
+#EXTINF:-1,Nickelodeon 
+https://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+#EXTINF:-1,Yahoo! Finance (1080p)
+https://yahoo-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1,EWTN Europe (720p) [Not 24/7]
+https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
+#EXTINF:-1,NBA TV
+https://fl1.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1,CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1,Nicktoons
+https://fl1.moveonjoy.com/Nicktoons/index.m3u
+#EXTINF:-1, CARTOON NETWORK
+https://fl1.moveonjoy.com/CARTOON_NETWORK/index.m3u
