@@ -55,6 +55,8 @@ TV 5
 PTV
 NICKTOONS
 CARTOON NETWORK
+Cinema One
+Cinemo!
 
 LINK TO IPTV M3U:
 ```
