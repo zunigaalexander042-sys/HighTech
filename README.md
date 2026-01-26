@@ -60,6 +60,8 @@ Cinemo!
 
 LINK TO IPTV M3U:
 
+'''
+https://raw.githubusercontent.com/Hightech/IPHTV/refs/heads/main/ph.m3u
     - Credits to all the sources of the working m3u links 
 
 
