@@ -1,6 +1,6 @@
 # HighTech
 Philippine based maintained IPTV list from various sources.
-Channel List as of 1/12/2026:
+Channel List as of 1/31/2026:
 ```
 
 Japanim TV
@@ -57,6 +57,10 @@ NICKTOONS
 CARTOON NETWORK
 Cinema One
 Cinemo!
+Abante TV
+A2Z
+PTV
+DREAMWORK ASIA
 
 LINK TO IPTV M3U:
 ```
