@@ -63,7 +63,7 @@ Abante TV
 LINK TO IPTV M3U:
 ```
 
-https://raw.githubusercontent.com/Hightech/IPHTV/refs/heads/main/ph.m3u
+https://iptv-org.github.io/iptv/countries/ph.m3u
 ```
 ``
     - Credits to all the sources of the working m3u links 
