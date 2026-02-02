@@ -3,61 +3,26 @@ Philippine based maintained IPTV list from various sources.
 Channel List as of 2/2/2026:
 ```
 
-Japanim TV
-XilamTV
-Yahoo! Finance
-EWTN Europe
-NBA TV
-Zarok TV Sorani
-Nickelodeon
-Disney Channel
-Disney XD
-Disney Jr
-EWTN Asia-Pacific
-BBC News Asia Pacific
-TV5 Monde Asia
-TV5Monde Pacifique
-TV5 Asie
-TV5 Style
-TVE Internacional Asia-Oceania
-TVE Internacional Europe-Asia
-Travel Channel
-Arirang
-ALJAZEERA
-Bloomberg
-BBC World News
-CGTN News
-CGTN Documentaries
-Outdoor Channel
-Thrillers
-American Idol
-Animal Planet
-Baywatch
-MovieSphere
-3ABN Kids
-Fanpop TV
-Blues TV
-Kariakos Kids
-Magic Kids
-Persiana Junior
-Retro Crush
-MrBean Animated Series
-Rakuten TV Action Movies
-
-Local Channels:
-The Filipino Channel
-Bilyonario News Channel
-Mindanow Network TV
-TV Maria Philippines
-INC TV
-Kapamilya Channel
-TV 5
-PTV
-ALLTV
+Abante TV
+ANC
+Bilyonaryo News Channel
+CCTN 47
 Cinema One
 Cinemo!
-Dreamwork Asia
-Abante TV
+CLTV36
+Hope Channel Philippines
+K+
+Mindanow Network TV
+MNB Word
+Premier Sports
+Premier Sports 2
+PTV
+RTM ASEAN
+TVN
+
+Local Channels:
+DreamWorks Asia
+A2Z
 ```
 
 LINK TO IPTV M3U:
